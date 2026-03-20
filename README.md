@@ -1,3 +1,3 @@
-# MyFisrtReposityKindaNervous
+# MyFisrtRepositoryKindaNervous
 First repository ever.
 
